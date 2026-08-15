@@ -19,6 +19,10 @@ This repository houses advanced computational science projects that bridge labor
 ### 🔎 Food Safety & Forensic Analytics
 * **Project_4_Food_Safety_Classifier.ipynb**: Screening algorithm parsing heavy metal contamination counts against statutory FSSAI safety criteria.
 * **Project_7_Forensic_Chemical_Classifier.ipynb**: Machine learning substance verification engine using infrared/raman spectroscopic fingerprint intensities to classify counterfeit compounds.
+* ### 🔎 Food Safety & Forensic Analytics
+* **Project_4_Food_Safety_Classifier.ipynb**: Screening algorithm parsing heavy metal contamination counts against statutory FSSAI safety criteria.
+* **Project_7_Forensic_Chemical_Classifier.ipynb**: Machine learning substance verification engine using infrared/raman spectroscopic fingerprint intensities to classify counterfeit compounds.
+* **Project_8_Chemical_Batch_Auditor.ipynb**: Automated Quality Assurance LIMS script parsing multi-conditional batch reports (purity, moisture, impurities) to flag structural compliance anomalies.
 
 ## 🛠️ Tech Stack
 * **Domain Chemistry:** RDKit
